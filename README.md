@@ -1,6 +1,6 @@
 # Perfection
 
-Just a skeleton of a nice dev environment for ClojureScript. Check [this article](http://astashov.github.io/blog/2014/07/30/perfect-clojurescript-development-environment-with-vim-on-macosx/) for details.
+Just a skeleton of a nice dev environment for ClojureScript. Check [this article](http://astashov.github.io/blog/2014/07/30/perfect-clojurescript-development-environment-with-vim/) for details.
 
 ## Usage
 
